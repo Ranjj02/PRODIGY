@@ -9,3 +9,9 @@ PROGRAMMING LANGUAGE: HTML, CSS, JAVASCRIPT
 
 WEBSITE PICTURES
 ![image](https://github.com/Ranjj02/PRODIGY/assets/139197827/c1bdadcf-7eda-4c49-b83e-6d1da0db25e8)
+![image](https://github.com/Ranjj02/PRODIGY/assets/139197827/57ea2e2e-b06b-4f1d-8a86-41ab9377e3ee)
+![image](https://github.com/Ranjj02/PRODIGY/assets/139197827/69a0ed93-757a-4277-802e-de6d3d69170a)
+![image](https://github.com/Ranjj02/PRODIGY/assets/139197827/61905d61-1259-405a-8ba3-ca32e7454d45)
+
+
+
